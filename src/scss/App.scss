@@ -330,7 +330,8 @@ $enable-responsive-font-sizes: true;
   margin-bottom: 10%;
   @include font-size(0.9rem);
   font-weight: 300;
-  text-align: center;
+  text-align: left;
+  line-height: 1.5;
 }
 
 .Carevider {
